@@ -3,4 +3,5 @@
 -- Add any additional options here
 --
 --
+vim.o.termguicolors = true
 vim.g.snacks_animate = false
